@@ -1,0 +1,21 @@
+body{
+	background-color: green;
+}
+
+body.clarear{
+	background-color: lightgreen;
+}
+
+body.oscurecer{
+	background-color: darkgreen;
+}
+
+button{
+	background-color: #7fba67;
+	color: #ffffff;
+	border: none;
+	padding: 30px;
+	width: 100%;
+	font-size: 1em;
+	margin-top: 10px;
+}
